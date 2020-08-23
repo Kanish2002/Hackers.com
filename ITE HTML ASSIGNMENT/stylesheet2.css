@@ -1,0 +1,19 @@
+.newbody {
+max-width: 100%; margin: 0 auto }
+
+div.screen {
+width: 100%;
+padding: 0 5%;
+float: left}
+
+.top
+{
+  color:black;
+  font-size: 25px;
+  font-family:courier;
+}
+
+.link
+{
+	color:black;
+}
